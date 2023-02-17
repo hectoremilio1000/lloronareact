@@ -27,7 +27,7 @@ function QuickInfo() {
       <div
         style={{ display: "flex", justifyContent: "center", flexWrap: "wrap" }}
       >
-        <Link to="menu/menualimentos">
+        <Link to="/menullorona/menualimentos">
           <div>
             <img
               className="imagenAbajoTexto1Home"
@@ -42,7 +42,7 @@ function QuickInfo() {
             <img
               className="imagenAbajoTexto1Home"
               src="https://imagenesrutalab.s3.amazonaws.com/llorona/galeriaimagenes/aguachileVerde.jpg"
-              alt="Pierde Almas con Mezcal"
+              alt="Aguachile Verde Camarón"
             />
             <p className="textoFotosHome">
               Aguachile Verde <br />
@@ -50,7 +50,7 @@ function QuickInfo() {
             </p>
           </div>
         </Link>
-        <Link to="menu/menualimentos">
+        <Link to="/menullorona/menualimentos">
           <div>
             <img
               className="imagenAbajoTexto1Home"
@@ -58,12 +58,12 @@ function QuickInfo() {
               alt="Tacos deliciosos de Cochinita Pibil"
             />
             <p className="textoFotosHome">
-              Hamburguesa Más Trendy de <br />
-              México con especias mexicanas
+              Hamburguesa Méxicana <br />
+              con especias mexicanas
             </p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/mixologiayarn">
+        <Link to="/menullorona/menubebidas/artesanal">
           <div>
             <img
               className="imagenAbajoTexto1Home"

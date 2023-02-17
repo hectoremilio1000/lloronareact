@@ -30,7 +30,7 @@ function QuickInfo2() {
       <div
         style={{ display: "flex", justifyContent: "center", flexWrap: "wrap" }}
       >
-        <Link to="menu/menualimentos">
+        <Link to="/menullorona/menualimentos">
           <div>
             <img
               className="iconoAbajoTexto1Home"
@@ -40,7 +40,7 @@ function QuickInfo2() {
             <p className="textoFotosHome">Menú Alimentos</p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/mixologia">
+        <Link to="/menullorona/menubebidas/artesanal">
           <div>
             <img
               className="iconoAbajoTexto1Home"
@@ -50,7 +50,7 @@ function QuickInfo2() {
             <p className="textoFotosHome">Mixología Artesanal</p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/mezcalesartesanales">
+        <Link to="/menullorona/menubebidas/artesanal">
           <div>
             <img
               className="iconoAbajoTexto1Home"
@@ -64,7 +64,7 @@ function QuickInfo2() {
             </p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/cervezasartesanales">
+        <Link to="/menullorona/menubebidas/artesanal">
           <div>
             <img
               className="iconoAbajoTexto1Home"
@@ -78,7 +78,7 @@ function QuickInfo2() {
             </p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/destilados">
+        <Link to="/menullorona/menubebidas/industrial">
           <div>
             <img
               className="iconoAbajoTexto1Home"
@@ -88,7 +88,7 @@ function QuickInfo2() {
             <p className="textoFotosHome">Destilados</p>
           </div>
         </Link>
-        <Link to="menu/menubebidas/sodas">
+        <Link to="/menullorona/menubebidas/industrial">
           <div>
             <img
               className="iconoAbajoTexto1Home"

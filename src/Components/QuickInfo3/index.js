@@ -48,12 +48,12 @@ function QuickInfo3() {
               alt="Djs por día"
             />
             <p className="textoFotosHome">
-             Djs <br />
+              Djs <br />
               por día
             </p>
           </div>
         </Link>
-        <Link to="/reserva">
+        <Link to="/menullorona/menubebidas/artesanal">
           <div>
             <img
               className="imagen2AbajoTexto1Home"
