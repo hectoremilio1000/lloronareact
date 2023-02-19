@@ -32,11 +32,11 @@ function Food() {
         <div className="linea"></div>
         <div>
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/menuComida1.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/food1.jpg"
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/menuComida2.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/food2.jpg"
             style={{ height: "30%", width: "100%" }}
           />
         </div>

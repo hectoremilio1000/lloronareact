@@ -31,15 +31,15 @@ function Mixology() {
         <div className="linea"></div>
         <div>
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/Mixologia.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/MixologyEnglish.jpg"
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/mezcales.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/mezcalIngles.jpg"
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/cervezaArtesanal.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/draftbeer.jpg"
             style={{ height: "30%", width: "100%" }}
           />
         </div>

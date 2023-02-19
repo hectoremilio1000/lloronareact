@@ -34,8 +34,8 @@ function Cantinero() {
           <QuickInfoWrapper>
             <p className="text text-justify">
               En las cantinas mexicanas la botana es una tradición, aquí el
-              cliente recibe después de cada brebaje de enjundia. Los clientes
-              reciben después de una mixologia, cerveza artesanal o
+              cliente recibe comida gratis después de cada brebaje de enjundia. Es decir,
+              después de una mixologia, cerveza artesanal o
               destilado favorito, un vaso con caldo de camarón, y
               posteriormente lo que el cuerpo aguante.
             </p>

@@ -34,14 +34,15 @@ function Tavern() {
           <QuickInfoWrapper>
             <p className="text text-justify">
               In the Mexican taverns the snack is a tradition, here the client
-              receives free food after a mixology, craft beer or favorite distillate.
+              receives free food after a mixology, craft beer or favorite
+              distillate.
             </p>
           </QuickInfoWrapper>
         </div>
       </Section>
       <div style={{ width: "100%" }}>
         <Image
-          src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/menuTavern.jpg"
+          src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/tavern.jpg"
           style={{ width: "100%" }}
         />
       </div>
