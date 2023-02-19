@@ -44,7 +44,7 @@ function Cantinero() {
       </Section>
       <div>
         <Image
-          src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/menucantinerofrente080223.jpg"
+          src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/menucantinerofrente080223.jpg"
           style={{ height: "30%", width: "100%" }}
         />
       </div>

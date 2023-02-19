@@ -26,7 +26,7 @@ function Mixology() {
       <QuickInfoWrapper>
         <h4 className="text-center tituloSection">Mexican drinks</h4>
         <h2 className="text-center subTituloSection">
-          Mixology, Craft Beers and Mexican Mezcals
+          Mixology with liquors and mexican flavors, Craft Mexican Beers and Mexican Mezcals
         </h2>
         <div className="linea"></div>
         <div>

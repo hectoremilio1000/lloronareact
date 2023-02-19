@@ -29,13 +29,13 @@ function Alimentos() {
           Cocinados con amor y mucho sazón
         </h2>
         <div className="linea"></div>
-        <div>   
+        <div>
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg2/menuComida1.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/menuComida1.jpg"
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg2/menuComida2.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/menuComida2.jpg"
             style={{ height: "30%", width: "100%" }}
           />
         </div>

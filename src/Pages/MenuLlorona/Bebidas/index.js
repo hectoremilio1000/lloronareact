@@ -29,16 +29,16 @@ function Bebidas() {
           Llorona
         </h2>
         <div className="linea"></div>
-        </QuickInfoWrapper>
+      </QuickInfoWrapper>
       <div className="contenedorMenu mb-3">
         <ButtonComponent
-          titulo="LO MEXICANO: CERVEZAS, MEZCALES Y MIXOLOGÍA ARTESANAL"
+          titulo="LO MEXICANO: CERVEZAS ARTESANALES MEXICANAS, MEZCALES ARTESANALES Y MIXOLOGÍA CON SABORES Y DESTILADOS MEXICANOS"
           enlace="artesanal"
         />
-       
-       
+
+
         <ButtonComponent titulo="SODAS, DESTILADOS Y CERVEZAS INDUSTRIALES" enlace="industrial" />
-     
+
       </div>
     </>
   );

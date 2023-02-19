@@ -29,11 +29,11 @@ function Industrial() {
         <div className="linea"></div>
         <div>
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/licoresCervezasSodas.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/licoresCervezasSodas.jpg"
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/destilados.jpg"
+            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/destilados.jpg"
             style={{ height: "30%", width: "100%" }}
           />
         </div>
