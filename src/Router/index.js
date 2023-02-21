@@ -15,10 +15,13 @@ import Industrial from '../Pages/MenuLlorona/Bebidas/Industrial/index';
 import Food from '../Pages/MenuEnglish/Food';
 import Mixology from '../Pages/MenuEnglish/Drinks/Mixology/index';
 import Spirits from '../Pages/MenuEnglish/Drinks/Spirits/index';
+import LayoutLlorona from '../Modules/LayoutLlorona/index';
 
 function Rutas() {
   return (
+
     <Routes>
+
       <Route path="/" element={<Home />} />
       <Route path="/reserva" element={<Reserva />} />
       <Route path="/menullorona" element={<MenuLlorona />} />
@@ -46,7 +49,9 @@ function Rutas() {
       <Route path="/menullorona/drinks" element={<Drinks />} />
       <Route path="/menullorona/drinks/mixology" element={<Mixology />} />
       <Route path="/menullorona/drinks/spirits" element={<Spirits />} />
+
     </Routes>
+
   );
 }
 

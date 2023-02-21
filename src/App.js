@@ -1,16 +1,17 @@
-import LayoutLlorona from './Modules/LayoutLlorona';
+
 import "../src/styles/global.css";
-import { Link } from 'react-router-dom';
+import { BrowserRouter, Link } from 'react-router-dom';
 import Rutas from './Router';
+import LayoutLlorona from './Modules/LayoutLlorona/index';
+
 
 function App() {
-  return  (<main>
-      <title>La Llorona</title>
+  return (
+    <BrowserRouter>
       <LayoutLlorona>
-        <Rutas/>
-       
-    </LayoutLlorona>
-    </main>)
+        <Rutas />
+      </LayoutLlorona>
+    </BrowserRouter>)
 }
 
 export default App;
