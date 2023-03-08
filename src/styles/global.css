@@ -81,7 +81,7 @@
 }
 
 .bannerMenu {
-  background-image: url("https://imagenesrutalab.s3.amazonaws.com/llorona/banner/bannerMenu.jpg");
+  background-image: url("../data/imagenes/HomeBanner/lugarAfuera.jpg");
   background-size: cover !important;
   background-repeat: no-repeat;
   height: 100vh;
@@ -352,7 +352,7 @@ ul {
   }
 
   .bannerMenu {
-    background-image: url("https://imagenesrutalab.s3.amazonaws.com/llorona/banner/bannerMenuMovil.jpg");
+    background-image: url("../data/imagenes/HomeBanner/lugarAfuera.jpg");
     background-size: cover !important;
     background-repeat: no-repeat;
     height: 100vh;
@@ -360,7 +360,7 @@ ul {
   }
 
   .bannerHome {
-    background-image: url("https://imagenesrutalab.s3.amazonaws.com/llorona/banner/bannerHome+2-3.jpg");
+    background-image: url("../data/imagenes/HomeBanner/lugarAfuera.jpg");
     background-size: cover !important;
     background-repeat: no-repeat;
     height: 100vh;
