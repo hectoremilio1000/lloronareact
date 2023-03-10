@@ -11,8 +11,8 @@ function Home() {
     <>
       <header className="bannerHome">
         <div className="d-flex subContenedor1Banner">
-          <div className="subDiv1Banner">
-            <h3 className=" font-weight-bold bannerHomeTexto">
+          <div className="subDiv1Banner mr-3">
+            <h3 className=" font-weight-bold bannerHomeTexto mr-2">
               Mexican Experience
             </h3>
 

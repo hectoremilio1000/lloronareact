@@ -6,21 +6,21 @@ import { QuickInfoWrapper } from '../../../Modules/styles/globalStyles';
 function Bebidas() {
   return (
     <>
-      <header className="bannerMenu">
-        <div className="d-flex subContenedor1Banner">
-          <div className="subDiv1Banner">
-            <h3 className=" font-weight-bold bannerHomeTexto">
-              Mexican Experience
-            </h3>
+      <header className="">
+        <div className="d-flex justify-content-around m-2">
 
-            <div className="subSubDiv1Banner">
-              <Link to="/reserva">
-                <button type="button" className="buttonComponente">
-                  ¡Reserva ya!
-                </button>
-              </Link>
-            </div>
+          <span className="d-flex align-items-center font-weight-bold .text-dark h3 m-0 p-0 ">
+            Mexican Experience
+          </span>
+
+          <div className="">
+            <Link to="/reserva">
+              <button type="button" className="buttonComponente">
+                ¡Reserva ya!
+              </button>
+            </Link>
           </div>
+
         </div>
       </header>
       <QuickInfoWrapper>

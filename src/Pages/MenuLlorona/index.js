@@ -21,21 +21,21 @@ function MenuLlorona() {
 
   return (
     <>
-      <header className="bannerMenu">
-        <div className="d-flex subContenedor1Banner">
-          <div className="subDiv1Banner">
-            <h3 className=" font-weight-bold bannerHomeTexto">
+      <header className="">
+        <div className="d-flex justify-content-around m-2">
+          
+          <span className="d-flex align-items-center font-weight-bold .text-dark h3 m-0 p-0 ">
               Mexican Experience
-            </h3>
+            </span>
 
-            <div className="subSubDiv1Banner">
+            <div className="">
               <Link to="/reserva">
                 <button type="button" className="buttonComponente">
                   ¡Reserva ya!
                 </button>
               </Link>
             </div>
-          </div>
+         
         </div>
       </header>
       <Section className="mt-2">
