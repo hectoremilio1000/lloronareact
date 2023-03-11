@@ -3,6 +3,8 @@ import { Image } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { QuickInfoWrapper } from '../../../../Modules/styles/globalStyles';
 import cervezaArtesanal from '../../../../data/assets/imagenes/menuEspa/cervezaArtesanal.jpg'
+import menuComida1 from '../../../../data/assets/imagenes/menuEspa/menuComida1.jpg'
+import soda from '../../../../data/assets/imagenes/menuEspa/licoresCervezasSodas.jpg'
 
 function Industrial() {
   return (
@@ -52,7 +54,7 @@ function Industrial() {
               style={{ height: "30%", width: "100%" }}
             />
             <Image
-              src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/mezcales.jpg"
+              src={soda}
               style={{ height: "30%", width: "100%" }}
             />
             <Image
@@ -70,7 +72,7 @@ function Industrial() {
           <div className="linea"></div>
           <div>
             <Image
-              src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/menuComida1.jpg"
+              src={menuComida1}
               style={{ height: "30%", width: "100%" }}
             />
             <Image
