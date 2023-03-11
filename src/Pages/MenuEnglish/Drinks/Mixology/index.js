@@ -2,6 +2,9 @@ import React from 'react'
 import { Image } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { QuickInfoWrapper } from "../../../../Modules/styles/globalStyles";
+import draftBeer from '../../../../data/assets/imagenes/menuIngles/draftbeer.jpg'
+import industrial from '../../../../data/assets/imagenes/menuIngles/SpiritsBeersSodas.jpg'
+import food1 from '../../../../data/assets/imagenes/menuIngles/food1.jpg'
 
 function Mixology() {
   return (
@@ -40,7 +43,7 @@ function Mixology() {
             style={{ height: "30%", width: "100%" }}
           />
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/draftbeer.jpg"
+            src={draftBeer}
             style={{ height: "30%", width: "100%" }}
           />
           </div>
@@ -51,7 +54,7 @@ function Mixology() {
           <div className="linea"></div>
           <div>
             <Image
-              src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/SpiritsBeersSodas.jpg"
+              src={industrial}
               style={{ height: "30%", width: "100%" }}
             />
             <Image
@@ -68,7 +71,7 @@ function Mixology() {
           <div className="linea"></div>
           <div>
             <Image
-              src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/food1.jpg"
+              src={food1}
               style={{ height: "30%", width: "100%" }}
             />
             <Image
