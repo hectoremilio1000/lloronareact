@@ -2,7 +2,7 @@ import React from 'react'
 import { Image } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { QuickInfoWrapper } from '../../../../Modules/styles/globalStyles';
-
+import cervezaArtesanal from '../../../../data/assets/imagenes/menuEspa/cervezaArtesanal.jpg'
 function Artesanal() {
   return (
     <>
@@ -39,10 +39,10 @@ function Artesanal() {
             src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/mezcales.jpg"
             style={{ height: "30%", width: "100%" }}
           />
-          <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/espanol/jpg3/cervezaArtesanal.jpg"
-            style={{ height: "30%", width: "100%" }}
-          />
+            <Image
+              src={cervezaArtesanal}
+              style={{ height: "30%", width: "100%" }}
+            />
 
           </div>
         </>
