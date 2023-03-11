@@ -2,7 +2,9 @@ import React from "react";
 import { Image } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { QuickInfoWrapper } from "../../../Modules/styles/globalStyles";
-
+import food1 from '../../../data/assets/imagenes/menuIngles/food1.jpg'
+import draftbeer from '../../../data/assets/imagenes/menuIngles/draftbeer.jpg'
+import industrial from '../../../data/assets/imagenes/menuIngles/SpiritsBeersSodas.jpg'
 
 function Food() {
   return (
@@ -28,12 +30,12 @@ function Food() {
         <>
         <h4 className="text-center tituloSection">Mexican dishes</h4>
         <h2 className="text-center subTituloSection">
-          Cooked with love and lots of passion
+          Cooked with love and lots of passion 
         </h2>
         <div className="linea"></div>
         <div>
           <Image
-            src="https://imagenesrutalab.s3.amazonaws.com/llorona/menuDigital/english/food1.jpg"
+            src={food1}
             style={{ height: "30%", width: "100%" }}
           />
           <Image
